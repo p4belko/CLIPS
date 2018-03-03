@@ -1,4 +1,3 @@
-SECRET - DO NOT SHOW
 (deftemplate byt
 	(slot mesto(type SYMBOL))
 	(slot cena(type INTEGER))
